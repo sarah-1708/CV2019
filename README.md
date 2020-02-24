@@ -1,4 +1,6 @@
 # CV2020
-CV intégratrice 2019
+
 CV intégratrice web 2020
+CV en Angais et en Français
 formats PSD et JPEG
+
